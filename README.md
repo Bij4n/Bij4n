@@ -63,10 +63,7 @@ Also private — **[message me](mailto:b@mawji.vc)** for access.
 
 **Languages** — Ruby · Python · Rust · TypeScript · JavaScript · Kotlin · Swift · Go · SQL<br>
 **Frameworks** — Rails · FastAPI · Next.js · React · React Native · Angular · Tailwind<br>
-**Data** — Postgres · MySQL · MongoDB · Redis · Supabase · Prisma · Drizzle<br>
-**Infra** — Docker · Kamal · Vercel · Cloudflare · Stripe · Sidekiq · Linux/VPS<br>
-**AI** — Claude API agents · open-weight models · local LLMs (Ollama) · RAG · computer vision<br>
-**Focus** — AI agents · privacy & crypto · fintech & billing · self-hosted infra
+**Data** — Postgres · MySQL · MongoDB · Redis · Supabase · Prisma · Drizzle
 
 ## Connect
 
