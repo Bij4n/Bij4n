@@ -52,6 +52,12 @@ Also private — **[message me](mailto:b@mawji.vc)** for access.
 | [🔒 **neural-curator**](https://github.com/Bij4n/neural-curator) | Your world, summarized before the noise gets in | `TypeScript` |
 | [🔒 **concierge**](https://github.com/Bij4n/concierge) | Your building, working for everyone in it | `TypeScript` |
 | [🔒 **greenlight**](https://github.com/Bij4n/greenlight) | Guided development environment for film, TV, and documentary projects | `TypeScript` |
+| [🔒 **poison-the-well**](https://github.com/capitalism-killed-software/poison-the-well) | Cloak your files so AI scrapers can't use them as training data | `TypeScript` |
+| [🔒 **contacts-app**](https://github.com/capitalism-killed-software/contacts-app) | One private, local-only contact database from your scattered LinkedIn, iPhone, and Google exports | `TypeScript` |
+| [🔒 **proton-signal-outreach**](https://github.com/capitalism-killed-software/proton-signal-outreach) | Self-hosted outreach daemon — message it on Signal, it drafts cold emails with Claude and sends via Proton | `Python` |
+| [🔒 **commandpost**](https://github.com/capitalism-killed-software/commandpost) | Local-first project hub, knowledge base, and ops command center for developers | `TypeScript` |
+| [🔒 **pipe-CRM**](https://github.com/capitalism-killed-software/pipe-CRM) | API-first CRM — find, verify, and enrich business contacts over REST and MCP | `TypeScript` |
+| [🔒 **amortifi**](https://github.com/capitalism-killed-software/amortifi) | Amortization schedules for loans that don't fit the spreadsheet | `JavaScript` |
 
 ## Stack
 
