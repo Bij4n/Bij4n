@@ -40,3 +40,7 @@
 - An amortization engine and API for loan structures that standard spreadsheets can't express.
 - An API-first contact platform that finds, verifies, and enriches business records over both REST and a tool-calling interface.
 - A utility that subtly perturbs files so they resist being harvested as machine-learning training data.
+- A content-provenance tool that stamps images with cryptographic credentials and tracks where they travel, so a picture can prove who made it and whether it has been altered.
+- A privacy-first estate-planning vault that turns end-of-life logistics into encrypted instructions and letters, released to the right people at the right time.
+- A local-first operations hub for developers that combines project management, a knowledge base, and a command center, with data that never leaves your machine.
+- A privacy-respecting operations platform for independent consultants that keeps client work, time, and deliverables in one place without handing your book of business to a third party.
