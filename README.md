@@ -17,7 +17,7 @@
 **Languages** — Ruby · Python · Rust · TypeScript · JavaScript · Go · Swift · Kotlin · SQL<br>
 **Frameworks** — Rails · FastAPI · Next.js · React · React Native · Angular · Tailwind<br>
 **Data** — Postgres · MySQL · MongoDB · Redis · SQLite<br>
-**Practice** — distributed systems · cryptography · applied security · AI agents · agentic systems · APIs · self-hosted infra · web & mobile apps · rapid prototyping
+**Practice** — distributed systems · cryptography · applied security · AI agents · agentic systems · human-in-the-loop computing · automation · APIs · self-hosted infra · web & mobile apps · rapid prototyping
 
 ## Things I've built
 
