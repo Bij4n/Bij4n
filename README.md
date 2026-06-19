@@ -31,3 +31,12 @@
 - A privacy-first contacts manager that merges scattered exports into one local-only database and runs entirely offline.
 - A self-hosted outreach daemon driven over an encrypted messaging channel that drafts messages with a language model and relays them through a local mail bridge.
 - A fully client-side cryptocurrency profitability calculator with live pricing and no backend — every computation runs in the browser.
+- A bilingual reading app with character-level alignment between translations and semantic search across the full corpus.
+- An AI purchasing agent that reconciles multi-tenant inventory and automates buying across several point-of-sale integrations.
+- A client-side generator that fabricates realistic synthetic identities for testing, with no data ever leaving the page.
+- A local-only scanner that audits and scores the security posture of the AI tooling installed on a workstation.
+- A counterparty-matching platform that brokers anonymous, procedure-aligned introductions before either side reveals its identity.
+- A mobile application for PGP key management and message encryption, with private keys held on-device.
+- An amortization engine and API for loan structures that standard spreadsheets can't express.
+- An API-first contact platform that finds, verifies, and enriches business records over both REST and a tool-calling interface.
+- A utility that subtly perturbs files so they resist being harvested as machine-learning training data.
