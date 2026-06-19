@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Bijan — builder, operator, investor">
+  <style>
+    .name { font: 600 78px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -2.5px; }
+    .tag  { font: 400 21px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 4px; }
+    .meta { font: 400 17px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 1px; }
+    .ink   { fill: #1f2328; }
+    .muted { fill: #59636e; }
+    .rule  { stroke: #d0d7de; stroke-width: 1.5; }
+    @media (prefers-color-scheme: dark) {
+      .ink   { fill: #e6edf3; }
+      .muted { fill: #8b949e; }
+      .rule  { stroke: #30363d; }
+    }
+  </style>
+  <text class="name ink"   x="60"   y="108">bijan</text>
+  <text class="tag muted"  x="64"   y="148">BUILDER &#183; OPERATOR &#183; INVESTOR</text>
+  <line class="rule"       x1="60"  y1="170" x2="1140" y2="170"/>
+  <text class="meta muted" x="60"   y="197">open&#8209;source &#183; privacy&#8209;first</text>
+</svg>
