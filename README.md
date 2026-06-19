@@ -49,6 +49,9 @@ Also private — **[message me](mailto:b@mawji.vc)** for access.
 | [🔒 **onlyPGP**](https://github.com/Bij4n/onlyPGP) | PGP key management and encryption app for iPhone | `Objective-C` |
 | [🔒 **curio**](https://github.com/Bij4n/curio) | Parent-curated AI tutor for kids 6–12 | `TypeScript` |
 | [🔒 **deathcalling**](https://github.com/Bij4n/deathcalling) | Estate planning as a love letter, not paperwork | `TypeScript` |
+| [🔒 **neural-curator**](https://github.com/Bij4n/neural-curator) | Your world, summarized before the noise gets in | `TypeScript` |
+| [🔒 **concierge**](https://github.com/Bij4n/concierge) | Your building, working for everyone in it | `TypeScript` |
+| [🔒 **greenlight**](https://github.com/Bij4n/greenlight) | Guided development environment for film, TV, and documentary projects | `TypeScript` |
 
 ## Stack
 
