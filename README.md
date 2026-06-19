@@ -45,6 +45,8 @@ Also private — **[message me](mailto:b@mawji.vc)** for access.
 | Project | What it is | |
 |---|---|---|
 | [🔒 **quiet**](https://github.com/Bij4n/quiet-app) | Self-hosted agent runtime — agents run on your hardware, secrets stay in an encrypted file on disk | `Go` |
+| [🔒 **insurably**](https://github.com/Bij4n/insurably) | A private, local security score for the AI tools on your workstation | `JavaScript` |
+| [🔒 **onlyPGP**](https://github.com/Bij4n/onlyPGP) | PGP key management and encryption app for iPhone | `Objective-C` |
 | [🔒 **curio**](https://github.com/Bij4n/curio) | Parent-curated AI tutor for kids 6–12 | `TypeScript` |
 | [🔒 **deathcalling**](https://github.com/Bij4n/deathcalling) | Estate planning as a love letter, not paperwork | `TypeScript` |
 
