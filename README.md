@@ -18,33 +18,33 @@ that helps people do better work and own the result outright instead of renting 
 
 ## Building now
 
-- **g6** — an AI product team in a box: 23 opinionated agents standing in for planning, design, code review, QA, release, and docs, so one person ships like they have a staff. `TypeScript`
-- **Shannon** — an AI security agent that finds real exploits; 96% on the source-aware XBOW benchmark.
-- **[OpenGuilds](https://github.com/Bij4n/open-guilds)** — a human-or-agent task router that sends each task to a person or an AI agent by confidence, cost, and latency. The easy majority gets automated; the messy tail goes to a human.
-- **[Quiet](https://github.com/Bij4n/quiet-app)** — a self-hosted agent runtime: runs AI agents on your own hardware against your own API key; every conversation, tool call, and secret stays in an encrypted file on disk. `Go`
+> 🔒 marks a private repo. If you'd like to collaborate or use a codebase, **[message me](mailto:b@mawji.vc)** and I'll grant access.
+
+- **[g6](https://github.com/Bij4n/g6)** — an AI product team in a box: 23 opinionated agents standing in for planning, design, code review, QA, release, and docs, so one person ships like they have a staff. `TypeScript`
+- **[shannon](https://github.com/Bij4n/shannon)** — a fully autonomous AI hacker that finds real exploits in web apps; 96.15% on the hint-free, source-aware XBOW benchmark. `TypeScript`
+- **[open-guilds](https://open-guilds.com)** — human intelligence infrastructure for AI agents: a task router that sends each job to a person or an agent by confidence, cost, and latency. `TypeScript`
+- **🔒 [keygate](https://github.com/Bij4n/keygate)** — an access gateway that keeps AI agents doing only what they're supposed to, with policy enforcement and trust scoring between agents and the tools they reach. `TypeScript`
+- **🔒 [petroforum](https://github.com/Bij4n/petroforum)** — a closed counterparty-alignment platform for the petroleum trade: structured listings with anonymous, procedure-aligned introductions before identities are revealed. `TypeScript`
+- **🔒 [pot-bot](https://github.com/Bij4n/pot-bot)** — an AI buying agent for cannabis retailers: multi-tenant inventory and purchasing across major POS platforms. `Python`
+- **🔒 [schedulite](https://github.com/Bij4n/schedulite)** — real-time check-in and wait-time SMS for medical practices, with no-show billing. `Ruby`
 
 ## Selected work
 
 | Project | What it is | |
 |---|---|---|
 | [**prive**](https://github.com/Bij4n/prive) | Cross-platform password & encryption toolkit for the terminal — single binary, zero runtime deps | `Rust` |
-| [**g6**](https://github.com/Bij4n/g6) | AI product team: 23 agents for planning, review, QA, and docs | `TypeScript` |
 | [**bible-together**](https://github.com/Bij4n/bible-together) | Bilingual Bible study with character-level highlights and semantic search | `Ruby` |
 | [**btc-mining-calc**](https://github.com/Bij4n/btc-mining-calc) | Client-side Bitcoin mining profitability calculator — no backend, no deps | `JavaScript` |
 | [**xmr-mining-calc**](https://github.com/Bij4n/xmr-mining-calc) | Monero mining calculator with live pricing and CPU presets | `JavaScript` |
 | [**johndoe**](https://github.com/Bij4n/johndoe) | Client-side generator for realistic fake identities, for testing | `JavaScript` |
 
-## Private projects
+## More private work
 
-These are private repos. If you'd like to collaborate or use a codebase, **[message me](mailto:b@mawji.vc)** and I'll grant access.
+Also private — **[message me](mailto:b@mawji.vc)** for access.
 
 | Project | What it is | |
 |---|---|---|
 | [🔒 **quiet**](https://github.com/Bij4n/quiet-app) | Self-hosted agent runtime — agents run on your hardware, secrets stay in an encrypted file on disk | `Go` |
-| [🔒 **keygate**](https://github.com/Bij4n/keygate) | Access gateway that keeps AI agents doing only what they're supposed to | `TypeScript` |
-| [🔒 **open-guilds**](https://github.com/Bij4n/open-guilds) | Human-or-agent task router by confidence, cost, and latency | `TypeScript` |
-| [🔒 **petroforum**](https://github.com/Bij4n/petroforum) | Closed counterparty-alignment platform for the petroleum trade | `TypeScript` |
-| [🔒 **schedulite**](https://github.com/Bij4n/schedulite) | Real-time check-in and wait-time SMS for medical practices, with no-show billing | `Ruby` |
 | [🔒 **curio**](https://github.com/Bij4n/curio) | Parent-curated AI tutor for kids 6–12 | `TypeScript` |
 | [🔒 **deathcalling**](https://github.com/Bij4n/deathcalling) | Estate planning as a love letter, not paperwork | `TypeScript` |
 
