@@ -1,75 +1,33 @@
 <!--
-  GitHub profile README for Bijan (Bij4n).
-  Repo: Bij4n/Bij4n  (name must match the username so it renders on the profile).
-  Banner: self-contained theme-aware SVG wordmark (./banner.svg) — no animation, no third-party services.
+  GitHub profile README for Bij4n.
+  Repo: Bij4n/Bij4n (name must match the username so it renders on the profile).
+  Banner: self-contained theme-aware SVG wordmark (./banner.svg).
 -->
 
 <p align="center">
-  <img src="./banner.svg" alt="Bijan — builder, operator, investor" width="100%" />
+  <img src="./banner.svg" alt="Bij4n" width="100%" />
 </p>
 
-I've been building software since high school. I ran Mycelium, the Bitcoin wallet,
-as CEO, and before that co-founded a hospitality software company and sold its
-rental-management platform.
+<p align="center">
+  Passionate about computer programming, technology, and security.
+</p>
 
-Today I build open-source, privacy-first tools under Capitalism Killed Software, and
-back a few founders — usually writing the first version myself. I care about software
-that helps people do better work and own the result outright instead of renting it.
+## Skills
 
-## Building now
-
-> 🔒 marks a private repo. If you'd like to collaborate or use a codebase, **[message me](mailto:b@mawji.vc)** and I'll grant access.
-
-- **[g6](https://github.com/Bij4n/g6)** — an AI product team in a box: 23 opinionated agents standing in for planning, design, code review, QA, release, and docs, so one person ships like they have a staff. `TypeScript`
-- **[shannon](https://github.com/Bij4n/shannon)** — a fully autonomous AI hacker that finds real exploits in web apps; 96.15% on the hint-free, source-aware XBOW benchmark. `TypeScript`
-- **[open-guilds](https://open-guilds.com)** — human intelligence infrastructure for AI agents: a task router that sends each job to a person or an agent by confidence, cost, and latency. `TypeScript`
-- **🔒 [keygate](https://github.com/Bij4n/keygate)** — an access gateway that keeps AI agents doing only what they're supposed to, with policy enforcement and trust scoring between agents and the tools they reach. `TypeScript`
-- **🔒 [petroforum](https://github.com/Bij4n/petroforum)** — a closed counterparty-alignment platform for the petroleum trade: structured listings with anonymous, procedure-aligned introductions before identities are revealed. `TypeScript`
-- **🔒 [pot-bot](https://github.com/Bij4n/pot-bot)** — an AI buying agent for cannabis retailers: multi-tenant inventory and purchasing across major POS platforms. `Python`
-- **🔒 [schedulite](https://github.com/Bij4n/schedulite)** — real-time check-in and wait-time SMS for medical practices, with no-show billing. `Ruby`
-
-## Selected work
-
-| Project | What it is | |
-|---|---|---|
-| [**prive**](https://github.com/Bij4n/prive) | Cross-platform password & encryption toolkit for the terminal — single binary, zero runtime deps | `Rust` |
-| [**bible-together**](https://github.com/Bij4n/bible-together) | Bilingual Bible study with character-level highlights and semantic search | `Ruby` |
-| [**btc-mining-calc**](https://github.com/Bij4n/btc-mining-calc) | Client-side Bitcoin mining profitability calculator — no backend, no deps | `JavaScript` |
-| [**xmr-mining-calc**](https://github.com/Bij4n/xmr-mining-calc) | Monero mining calculator with live pricing and CPU presets | `JavaScript` |
-| [**johndoe**](https://github.com/Bij4n/johndoe) | Client-side generator for realistic fake identities, for testing | `JavaScript` |
-
-## More private work
-
-Also private — **[message me](mailto:b@mawji.vc)** for access.
-
-| Project | What it is | |
-|---|---|---|
-| [🔒 **quiet**](https://github.com/Bij4n/quiet-app) | Self-hosted agent runtime — agents run on your hardware, secrets stay in an encrypted file on disk | `Go` |
-| [🔒 **insurably**](https://github.com/Bij4n/insurably) | A private, local security score for the AI tools on your workstation | `JavaScript` |
-| [🔒 **onlyPGP**](https://github.com/Bij4n/onlyPGP) | PGP key management and encryption app for iPhone | `Objective-C` |
-| [🔒 **curio**](https://github.com/Bij4n/curio) | Parent-curated AI tutor for kids 6–12 | `TypeScript` |
-| [🔒 **deathcalling**](https://github.com/Bij4n/deathcalling) | Estate planning as a love letter, not paperwork | `TypeScript` |
-| [🔒 **neural-curator**](https://github.com/Bij4n/neural-curator) | Your world, summarized before the noise gets in | `TypeScript` |
-| [🔒 **concierge**](https://github.com/Bij4n/concierge) | Your building, working for everyone in it | `TypeScript` |
-| [🔒 **greenlight**](https://github.com/Bij4n/greenlight) | Guided development environment for film, TV, and documentary projects | `TypeScript` |
-| [🔒 **poison-the-well**](https://github.com/capitalism-killed-software/poison-the-well) | Cloak your files so AI scrapers can't use them as training data | `TypeScript` |
-| [🔒 **contacts-app**](https://github.com/capitalism-killed-software/contacts-app) | One private, local-only contact database from your scattered LinkedIn, iPhone, and Google exports | `TypeScript` |
-| [🔒 **proton-signal-outreach**](https://github.com/capitalism-killed-software/proton-signal-outreach) | Self-hosted outreach daemon — message it on Signal, it drafts cold emails with Claude and sends via Proton | `Python` |
-| [🔒 **commandpost**](https://github.com/capitalism-killed-software/commandpost) | Local-first project hub, knowledge base, and ops command center for developers | `TypeScript` |
-| [🔒 **pipe-CRM**](https://github.com/capitalism-killed-software/pipe-CRM) | API-first CRM — find, verify, and enrich business contacts over REST and MCP | `TypeScript` |
-| [🔒 **amortifi**](https://github.com/capitalism-killed-software/amortifi) | Amortization schedules for loans that don't fit the spreadsheet | `JavaScript` |
-
-## Stack
-
-**Languages** — Ruby · Python · Rust · TypeScript · JavaScript · Kotlin · Swift · Go · SQL<br>
+**Languages** — Ruby · Python · Rust · TypeScript · JavaScript · Go · Swift · Kotlin · SQL<br>
 **Frameworks** — Rails · FastAPI · Next.js · React · React Native · Angular · Tailwind<br>
-**Data** — Postgres · MySQL · MongoDB · Redis · Supabase · Prisma · Drizzle
+**Data** — Postgres · MySQL · MongoDB · Redis · SQLite<br>
+**Practice** — distributed systems · cryptography · applied security · AI agents · self-hosted infra
 
-## Connect
+## Things I've built
 
-<p>
-  <a href="mailto:b@mawji.vc"><img src="https://img.shields.io/badge/Email-2d333b?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Bij4n"><img src="https://img.shields.io/badge/GitHub-2d333b?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://mawji.vc"><img src="https://img.shields.io/badge/mawji.vc-2d333b?style=flat-square&logo=icloud&logoColor=white" alt="mawji.vc" /></a>
-  <a href="https://linkedin.com/in/btc-guy"><img src="https://img.shields.io/badge/LinkedIn-2d333b?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+- An autonomous security agent that probes web applications for exploitable flaws end to end — recon, hypothesis, and verified proof-of-concept — without human hints.
+- A multi-agent orchestration framework: a fleet of specialized agents covering planning, review, testing, and release, coordinated through a single command-line interface.
+- A policy-enforcement gateway that mediates what AI agents are permitted to do, with trust scoring between agents and the tools and credentials they reach for.
+- A self-hosted agent runtime where every workload runs on your own hardware and secrets stay sealed in an encrypted file on disk — no cloud dependency.
+- A cross-platform password and encryption toolkit for the terminal, compiled to a single static binary with zero runtime dependencies.
+- A confidence-and-cost task router that dispatches each unit of work to either a person or an AI agent based on accuracy, latency, and price thresholds.
+- A real-time appointment check-in and wait-time system that streams SMS updates and reconciles no-show billing, built on a background job queue.
+- A privacy-first contacts manager that merges scattered exports into one local-only database and runs entirely offline.
+- A self-hosted outreach daemon driven over an encrypted messaging channel that drafts messages with a language model and relays them through a local mail bridge.
+- A fully client-side cryptocurrency profitability calculator with live pricing and no backend — every computation runs in the browser.
